@@ -14,9 +14,9 @@
 
 テキストファイル内で使われている文字集合は、上記の通りJIS X 0201と0208ですが、青空文庫では注記を使ってJIS X 0201+0208以外の文字、いわゆる「外字」を記述することができます。
 
-しかし、例えば外字注記でUnicodeの文字が指定できるからといって、Unicodeの文字をなんでも使えるわけではありません。あくまでJIS X 0208の包摂規準（とJIS X 0213で追加された包摂規準）を適用してもJIS X 0208内にはない文字について、JIS X 0213の面区点番号やUnicodeのコードポイントを使った外字注記を使います。JIS X 0213とUnicodeの両方にある文字については、JIS X 0213の面区点番号を使います。
+しかし、例えば外字注記でUnicodeの文字が指定できるからといって、Unicodeの文字をなんでも使えるわけではありません。あくまでJIS X 0208の包摂規準(とJIS X 0213で追加された包摂規準)を適用してもJIS X 0208内にはない文字について、JIS X 0213の面区点番号やUnicodeのコードポイントを使った外字注記を使います。JIS X 0213とUnicodeの両方にある文字については、JIS X 0213の面区点番号を使います。
 
-外字については、青空文庫作業マニュアル【入力編】の「4-6. 外字」(http://www.aozora.gr.jp/aozora-manual/index-input.html#gaiji)、青空文庫・外字注記辞書 (http://www.aozora.gr.jp/gaiji_chuki/)を参照のこと。また、JIS X 0208と0213の包摂規準については「JIS X 0208と0213規格票の包摂関連項目」(http://www.aozora.gr.jp/hosetsu_kijyun/index.html)が青空文庫サイト内で公開されています。
+外字については、青空文庫作業マニュアル【入力編】の[「4-6. 外字」](http://www.aozora.gr.jp/aozora-manual/index-input.html#gaiji)、[青空文庫・外字注記辞書](http://www.aozora.gr.jp/gaiji_chuki/)を参照のこと。また、JIS X 0208と0213の包摂規準については[「JIS X 0208と0213規格票の包摂関連項目」](http://www.aozora.gr.jp/hosetsu_kijyun/index.html)が青空文庫サイト内で公開されています。
 
 ## 本文のシンタックス
 
